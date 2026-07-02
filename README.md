@@ -52,15 +52,15 @@ con tablas de clientes, facturas, canciones, artistas y géneros.
 
 
 
-!\[Ingresos por género](images/ingresos\_por\_genero.png)
+![Ingresos por género](images/ingresos_por_genero.png)
 
 
 
-!\[Ingresos por país](images/ingresos\_por\_pais.png)
+![Ingresos por país](images/ingresos_por_pais.png)
 
 
 
-!\[Gasto promedio por país](images/gasto\_promedio\_pais.png)
+![Gasto promedio por país](images/gasto_promedio_pais.png)
 
 
 
